@@ -62,7 +62,8 @@ module.exports = {
             name:'app_main',
             library: {type:'var', name:'app_main'},
             remotes:{
-                app_home:'app_home'
+                app_home:'app_home',
+                app_introduction:'app_introduction'
             },
             shared:['react','react-dom','react-router-dom']
         }),
