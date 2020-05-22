@@ -1,1 +1,0 @@
-(window.webpackJsonphome=window.webpackJsonphome||[]).push([[125],{125:(e,n,t)=>{"use strict";t.r(n);var l=t(210),o=t.n(l),r=t(614);const c=function(){return o().createElement("div",null,o().createElement("p",null," Hello This is Home page "),o().createElement("button",null," Home page "))};t.n(r)().render(o().createElement(c,null),document.getElementById("root"))}}]);

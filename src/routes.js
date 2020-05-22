@@ -9,8 +9,8 @@ const Routes = () =>{
     <Router>
         <div> 
             <React.Suspense fallback="loading">
-                <Introduction />
                 <Home />
+                <Introduction />
             </React.Suspense>
         </div>
         </Router>
